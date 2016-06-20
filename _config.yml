@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Art Blanc"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Art Blanc"
+description              : "I’m Art Blanc and this is where I write for the web. I do design, mainly the interface kind to help humans interact with computers and vice versa."
+url                      : "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "art_blanc"
 facebook:
   username               :
   app_id                 :
@@ -63,15 +63,15 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Art Blanc"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I do design, mainly the interface kind to help humans interact with computers and vice versa."
+  location         : "Jakarta"
   email            :
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : "artblanc"
   flickr           :
   facebook         :
   foursquare       :
